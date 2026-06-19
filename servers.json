@@ -18,11 +18,15 @@
     },
     {
       "name": "fox-hulio",
+      "address": "http://20.239.194.219"
+    },
+    {
+      "name": "fox-render",
       "address": "https://anisette-v3-server-oj55.onrender.com"
     },
     {
       "name": "DXP2800-FnB",
-      "address": "https://app-41567-dxp2800-fnb.cn12.ugdocker.link"
+      "address": "http://dxp2800-fnb.local:41567"
     },
     {
       "name": "nythepegasus",
