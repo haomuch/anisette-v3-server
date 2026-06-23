@@ -21,6 +21,10 @@
       "address": "http://20.239.194.219"
     },
     {
+      "name": "fox-rabbit",
+      "address": "https://fox-rabbit.kdns.fr"
+    },
+    {
       "name": "fox-render",
       "address": "https://anisette-v3-server-oj55.onrender.com"
     },
