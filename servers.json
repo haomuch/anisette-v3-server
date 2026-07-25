@@ -34,7 +34,7 @@
     },
     {
       "name": "DXP2800-FnB",
-      "address": "http://dxp2800-fnb.local:41567"
+      "address": "http://192.168.31.162:41567"
     },
     {
       "name": "nythepegasus",
