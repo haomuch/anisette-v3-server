@@ -33,6 +33,10 @@
       "address": "http://nas.foxhulio.site:41567"
     },
     {
+      "name": "Fox-Tailscale",
+      "address": "http://100.88.90.99:41567"
+    },
+    {
       "name": "DXP2800-FnB",
       "address": "http://192.168.31.162:41567"
     },
